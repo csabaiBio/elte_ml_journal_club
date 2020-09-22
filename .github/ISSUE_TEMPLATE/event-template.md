@@ -1,7 +1,7 @@
 ---
 name: Event template
 about: YYYY.MM.DD.
-title: ''
+title: YYYY.MM.DD.
 labels: ''
 assignees: ''
 
