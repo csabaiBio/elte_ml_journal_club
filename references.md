@@ -8,3 +8,7 @@
 - https://openreview.net/pdf?id=Byl8BnRcYm, 
 - kód: https://github.com/benedekrozemberczki/CapsGNN
 
+### Good tutorials
+- Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron
+  - https://github.com/ageron/handson-ml 
+
