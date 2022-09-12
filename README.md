@@ -1,7 +1,7 @@
 # elte_ml_journal_club
 Machine learning journal club
 
-Webpage: [https://elte-mljc.github.io/]https://elte-mljc.github.io/ <br>
+Webpage: [https://elte-mljc.github.io/](https://elte-mljc.github.io/) <br>
 <br>
 Date: Thursdays from 16:30 to 18:00. <br>
 First session: 15th September, 2022 <br>
