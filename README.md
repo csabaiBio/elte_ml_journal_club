@@ -22,15 +22,16 @@ Online meeting link: [https://meet.google.com/fvd-soiu-ent](https://meet.google.
 
 | Topic | Assignee | Date | Extra resources | Pre-presentation |
 |-------|----------|------|-----------------|--------------|
-| [Introduction](https://docs.google.com/presentation/d/1Xa52kHUG9uDP8u9I0prwXoGlFzCpNzCU_c0G4zgPOfU/edit?usp=sharing) | Alex | 2023.09.28 | - | - |
-| Autoregressive models<br>(p761-779, p815-823, p477-567) | Alex | 2023.10.05 | - | - |
-| Diffusion models<br>(p761-779, p861-887) | Zoli | 2023.10.12 | [blog](#) \| Yang Song | 2023.10.04 |
-| Generative adversarial networks | Bence D. | 2023.10.19 | - | 2023.10.11 |
-| Energy-based models<br>(p761-779, p843-861) | Bálint | 2023.10.26 | - | 2023.10.18 |
-| Variational autoencoders<br>(p761-815, p343-355, p435-477) | Niki | 2023.11.09 | - | 2023.11.02 |
-| Normalizing flows<br>(p761-815, p823-843) | Bendegúz | 2023.11.16 | - | 2023.11.08 |
-| Interpretability | Csaba | 2023.11.23 | - | 2023.11.15 |
-| Representation learning<br>(p1045-1099) | Bence B. | 2023.11.30 | - | 2023.11.22 |
+| [Introduction - part I](https://docs.google.com/presentation/d/1Xa52kHUG9uDP8u9I0prwXoGlFzCpNzCU_c0G4zgPOfU/edit?usp=sharing) | Alex | **2023.09.28.** | - | - |
+| [Introduction - part II](https://docs.google.com/presentation/d/1Xa52kHUG9uDP8u9I0prwXoGlFzCpNzCU_c0G4zgPOfU/edit?usp=sharing) | Alex | **2023.10.05.** | - | - |
+| [Diffusion models](https://docs.google.com/presentation/d/1gA43mItH6IFGgo3d6H6iYQZye5AZx6Q1UIy2lAbM20U/edit?usp=sharing)<br>(p761-779, p861-887) | Zoli | **2023.10.12.** | [blog](#) \| Yang Song | 2023.10.04 |
+| Generative adversarial networks | Bence D. | **2023.10.19.** | - | 2023.10.11 |
+| Energy-based models<br>(p761-779, p843-861) | Bálint | **2023.10.26.** | - | 2023.10.18 |
+| Variational autoencoders<br>(p761-815, p343-355, p435-477) | Niki | **2023.11.09.** | - | 2023.11.02 |
+| Normalizing flows<br>(p761-815, p823-843) | Bendegúz | **2023.11.16.** | - | 2023.11.08 |
+| Interpretability | Csaba | 2023.11.23 | - | **2023.11.15.** |
+| Representation learning<br>(p1045-1099) | Bence B. | **2023.11.30.** | - | 2023.11.22 |
+| Auto-regressive models | Botond | **2023. 12. 07.** | - | 2023. 11. 30.**|
 
 
 
