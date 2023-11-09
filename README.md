@@ -26,7 +26,7 @@ Online meeting link: [https://meet.google.com/fvd-soiu-ent](https://meet.google.
 | [Introduction - part II](https://docs.google.com/presentation/d/1Xa52kHUG9uDP8u9I0prwXoGlFzCpNzCU_c0G4zgPOfU/edit?usp=sharing) | Alex | **2023.10.05.** | - | - |
 | [Diffusion models](https://docs.google.com/presentation/d/1gA43mItH6IFGgo3d6H6iYQZye5AZx6Q1UIy2lAbM20U/edit?usp=sharing)<br>(p761-779, p861-887) | Zoli | **2023.10.12.** | [blog](#) \| Yang Song | 2023.10.04. |
 | [Generative adversarial networks](https://docs.google.com/presentation/d/1XMTF1zOUxqsgxPrEyRQe_wTd_sw9srZ4PXpcsYcPd2g/edit?usp=sharing) | Bence D. | **2023.10.19.** | - | 2023.10.11. |
-| [Energy-based models](https://docs.google.com/presentation/d/1-s-QZeisUcqUFmYTz5tpwwqp7xWgR1KJ/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true) (p761-779, p843-861) | Bálint | **2023.10.26.** | - | 2023.10.18. |
+| [Energy-based models](https://docs.google.com/presentation/d/1-s-QZeisUcqUFmYTz5tpwwqp7xWgR1KJ/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true) (p761-779, p843-861) | Bálint | **2023.10.26.** | [The Physics of EBMs](https://physicsofebm.github.io/) | 2023.10.18. |
 | [Variational autoencoders](https://docs.google.com/presentation/d/1wnWS2tyu6uoezZOOYq1RE18WqTK28D23UlOiNXvwP30/edit?pli=1#slide=id.p) (p761-815, p343-355, p435-477) | Niki | **2023.11.09.** | - | 2023.11.02. |
 | Normalizing flows<br>(p761-815, p823-843) | Bendegúz | **2023.11.16.** | - | 2023.11.08. |
 | Interpretability | Csaba | **2023.11.23.** | - | 2023.11.15. |
