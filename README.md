@@ -28,7 +28,7 @@ Online meeting link: [https://meet.google.com/fvd-soiu-ent](https://meet.google.
 | [Generative adversarial networks](https://docs.google.com/presentation/d/1XMTF1zOUxqsgxPrEyRQe_wTd_sw9srZ4PXpcsYcPd2g/edit?usp=sharing) | Bence D. | **2023.10.19.** | - | 2023.10.11. |
 | [Energy-based models](https://docs.google.com/presentation/d/1-s-QZeisUcqUFmYTz5tpwwqp7xWgR1KJ/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true) (p761-779, p843-861) | Bálint | **2023.10.26.** | [The Physics of EBMs](https://physicsofebm.github.io/) | 2023.10.18. |
 | [Variational autoencoders](https://docs.google.com/presentation/d/1wnWS2tyu6uoezZOOYq1RE18WqTK28D23UlOiNXvwP30/edit?pli=1#slide=id.p) (p761-815, p343-355, p435-477) | Niki | **2023.11.09.** | - | 2023.11.02. |
-| Normalizing flows<br>(p761-815, p823-843) | Bendegúz | **2023.11.16.** | - | 2023.11.08. |
+| [Normalizing flows](https://docs.google.com/presentation/d/1YGJTT5D9bgr3o8dv401I8aazhA_qvnhmjdpml91RY5o/edit?usp=sharing) p761-815, p823-843) | Bendegúz | **2023.11.16.** | - | 2023.11.08. |
 | Interpretability | Csaba | **2023.11.23.** | - | 2023.11.15. |
 | Representation learning<br>(p1045-1099) | Bence B. | **2023.11.30.** | - | 2023.11.22. |
 | Auto-regressive models | Botond | **2023. 12. 07.** | - | 2023. 11. 30.|
