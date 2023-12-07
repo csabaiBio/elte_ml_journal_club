@@ -31,7 +31,7 @@ Online meeting link: [https://meet.google.com/fvd-soiu-ent](https://meet.google.
 | [Normalizing flows](https://docs.google.com/presentation/d/1YGJTT5D9bgr3o8dv401I8aazhA_qvnhmjdpml91RY5o/edit?usp=sharing) p761-815, p823-843) | Bendegúz | **2023.11.16.** | - | 2023.11.08. |
 | [Interpretability](https://docs.google.com/presentation/d/14_b0izGRtpV_F3XyU0na0XR0iik3eXTr/edit?usp=sharing&ouid=106284766092831291178&rtpof=true&sd=true) | Csaba | **2023.11.23.** | - | 2023.11.15. |
 | [Representation learning](https://docs.google.com/presentation/d/1CfOTIJ3JiKq5_VPPk7VqWrtb-NDAoexQ6B0gFqSM8Pk/edit?usp=sharing) | Bence B. | **2023.11.30.** | - | 2023.11.22. |
-| Auto-regressive models | Botond | **2023. 12. 07.** | - | 2023. 11. 30.|
+| [Auto-regressive models](https://docs.google.com/presentation/d/15gH2f02uwLWBUwd5YADNxlf8h9FxFm4SSA3Nhb2ari4/edit?usp=sharing) | Botond | **2023. 12. 07.** | - | 2023. 11. 30.|
 
 
 
