@@ -18,7 +18,7 @@ Online meeting link: [https://meet.google.com/fvd-soiu-ent](https://meet.google.
 |-------|----------|------|-----------------| -----------------|
 | Multimodal deep learning in oncology | Oz Kilim (ELTE)  | **2024.02.01.** | https://docs.google.com/presentation/d/1makXpCl7Y6XwJbPyFTCbbknV7aGnQWnZYIvWRaUQiaA/edit?usp=sharing | - |
 | Retrieval Augmented Generation (RAG) - advanced solutions to improve the performance of Generative AI chatbots | Zoltan Fóris (Lynx Analytics)  | **2024.02.15.** | - | - |
-|  | Michael Faran (DeepVoice/TAU)  | **2024.02.29.** | - | - |
+|  | Michael Faran (DeepVoice/TAU)  | **2024.02.29.** | A quantiative framework to describe self- assembly based on trend-changepoints | - |
 |  | Dylan Behr (UCL) | **2024.03.14.** | - | - |
 
 
