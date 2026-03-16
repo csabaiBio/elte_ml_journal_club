@@ -1,29 +1,34 @@
-# ELTE Machine Learning Seminars
-
-## Introduction to ELTE Machine Learning Seminars 2024
-
-The ELTE Machine Learning Seminars are set up to explore a selection of intriguing topics in the realm of machine learning and complex systems. With sessions led by various members of our community, we aim to delve deep into subjects ranging from autoregressive models to the intricacies of interpretability. Each session promises an insightful discussion on the respective topic, enhanced by shared resources and in-depth presentations. Join us as we navigate through these captivating themes and push the boundaries of our understanding in the ML sphere.
-
-## General info
-
-Webpage: [https://csabaibio.github.io/elte_ml_journal_club](https://csabaibio.github.io/elte_ml_journal_club) <br>
-<br>
-Date: Thursdays from 11.45 to 13:00. <br>
-Location: ELTE Lágymányosi Campus, Pázmány Péter sétány 1/A, 5th floor, room 5.128. <br>
-Online meeting link: [https://meet.google.com/fvd-soiu-ent](https://meet.google.com/fvd-soiu-ent) <br>
-
-## Sessions for 2024
-
-| Topic | Speaker/s | Date | Slides | Extra resources | 
-|-------|----------|------|-----------------| -----------------|
-| Multimodal deep learning in oncology | Oz Kilim (ELTE)  | **2024.02.01.** | https://docs.google.com/presentation/d/1makXpCl7Y6XwJbPyFTCbbknV7aGnQWnZYIvWRaUQiaA/edit?usp=sharing | - |
-| Retrieval Augmented Generation (RAG) - advanced solutions to improve the performance of Generative AI chatbots | Zoltan Fóris (Lynx Analytics)  | **2024.02.15.** | - | - |
-|  | Michael Faran (DeepVoice/TAU)  | **2024.02.29.** | A quantiative framework to describe self- assembly based on trend-changepoints | - |
-|  | Dylan Behr (UCL) | **2024.03.14.** | - | - |
+# New results in Machine Learning Seminar
+### aka Machine Learning Journal Club
+The goal of this lecture to explore, understand and discuss advancements and new results in the field of machine learning. For every lecture a student will prepare from a chosen paper/conference presentation and they will present it for the rest of the group. After the presentation we will discuss the key takeaways and nice ideas from the presentation. The next presenter will be chosen voluntarily.  
 
 
+A few things to look for when preparing the presentation:
+- Understand the underlying problem they wanted to solve.
+- Understand the methods they used to solve this problem.
+- Look up what are the benchmark datasets they evaluated their performance on.
+- What are the other models do they improved upon.
+- If you need help feel free to reach out to me.
+
+## General Information
+Date: Every Monday 16:15-17:45  
+Location: ELTE Lágymányosi Campus, Pázmány Péter sétány 1/A (North Building), 5th floor, room 5.128.  
+Meeting link: [Google Meet](https://meet.google.com/qov-zzxx-ixa)  
+My email: dudas.bence@ttk.elte.hu  
 
 
-
+## Worth to look around
+### Conferences:
+- NeurIPS (Conference on Neural Information Processing Systems)
+- ICCV (International Conference on Computer Vision)
+- ICLR (International Conference on Learning Representations)
+- CVPR (Conference on Computer Vision and Pattern Recognition)
+- ICML (International Conference on Machine Learning)
+- AAAI (Association for the Advancement of Artificial Intelligence)
+### Websites:
+- [Hugging Face Daily Papers](https://huggingface.co/papers/month/2026-03) <- Highly recommended!
+- [Deep Mind Blog](https://www.deepmind.com/blog)
+- [OpenAI Blog](https://developers.openai.com/blog/)
+- [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/)
 
 
