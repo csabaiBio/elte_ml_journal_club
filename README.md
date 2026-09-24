@@ -31,4 +31,13 @@ My email: dudas.bence@ttk.elte.hu
 - [OpenAI Blog](https://developers.openai.com/blog/)
 - [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/)
 
+## Presentations
+- Twin Brain [presentation](https://docs.google.com/presentation/d/1wc3dES-LEn_i_MtbdqN6sAtLoxDXA0EC/edit?usp=sharing&ouid=111142159706839914903&rtpof=true&sd=true) [paper](https://huggingface.co/papers/2601.14133)  
+- TubletGraph [presentation](https://docs.google.com/presentation/d/1UmnVtm-ubWt3LGMGRGMzdBJDtaYHSc2m/edit?usp=sharing&ouid=111142159706839914903&rtpof=true&sd=true) [paper](https://tubelet-graph.github.io/)  
+- PaperBanana [presentation](https://docs.google.com/presentation/d/1lXwLy71_kUw5AuQV0EEY-OjdyOc2UfPX/edit?usp=sharing&ouid=111142159706839914903&rtpof=true&sd=true) [paper](https://arxiv.org/abs/2601.23265)
+- Open-H [presentation](https://docs.google.com/presentation/d/1a68zQaGvlDA5yGyTb8yHwgu743ED-I8-/edit?usp=sharing&ouid=111142159706839914903&rtpof=true&sd=true) No paper, this is a short summary from our interest in NVIDIA-GTC
+- Generalist Vision Learners [presentation](https://docs.google.com/presentation/d/16ajcWN1NNz_hO0bBmKPL9fceaZt0kXbd/edit?usp=sharing&ouid=111142159706839914903&rtpof=true&sd=true) [paper](https://deepmind.google/research/publications/240658/)
+- Code as Worlds [presentation](https://docs.google.com/presentation/d/13IJEXYlmfeySutNEerDJsw6wBoeWXVrU/edit?usp=sharing&ouid=111142159706839914903&rtpof=true&sd=true) [paper](https://mirros-lab.github.io/code-as-world/)
+
+
 
