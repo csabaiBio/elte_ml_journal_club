@@ -6,7 +6,7 @@ author: Bence Dudás
 email: dudas.bence@ttk.elte.hu
 
 # Use the Minimal theme
-theme: jekyll-theme-minimal
+theme: jekyll-theme-primer
 
 markdown: kramdown
 plugins:
