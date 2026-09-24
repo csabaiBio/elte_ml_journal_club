@@ -1,0 +1,13 @@
+title: New results in Machine Learning Seminar
+description: >-
+  Machine Learning Journal Club at ELTE. Exploring, understanding, 
+  and discussing advancements in machine learning.
+author: Bence Dudás
+email: dudas.bence@ttk.elte.hu
+
+# Use the Minimal theme
+theme: jekyll-theme-minimal
+
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
